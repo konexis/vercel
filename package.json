@@ -1,0 +1,25 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konexis/vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konexis/vercel/issues"
+  },
+  "homepage": "https://github.com/konexis/vercel#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
