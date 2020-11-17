@@ -3,7 +3,7 @@ import {useState} from 'react';
 function Home(){
     return (
         <div>
-            <h1>Contadorlalala</h1>
+            <h1>Novo Titulo</h1>
             <h1>Contadorlalala</h1>
             <Contador/>
         </div>
